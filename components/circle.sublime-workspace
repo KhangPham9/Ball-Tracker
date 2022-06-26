@@ -1,0 +1,407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"calculate_correlation"
+			],
+			[
+				"co",
+				"correlation"
+			],
+			[
+				"get",
+				"get_log_standard_deviation"
+			],
+			[
+				"prin",
+				"printVectors"
+			],
+			[
+				"re",
+				"registerCallbacks"
+			],
+			[
+				"con",
+				"componenetDidMount"
+			],
+			[
+				"p1_",
+				"p1_mean"
+			],
+			[
+				"pa",
+				"pair1"
+			],
+			[
+				"log",
+				"log_return_standard_deviation"
+			],
+			[
+				"pair",
+				"pair1"
+			],
+			[
+				"pai",
+				"pair1"
+			],
+			[
+				"lo",
+				"log_return_variance"
+			],
+			[
+				"log_return",
+				"log_return_variance"
+			],
+			[
+				"vecto",
+				"vectorVarience"
+			],
+			[
+				"ve",
+				"vectorMean"
+			],
+			[
+				"_pai",
+				"_pair1"
+			],
+			[
+				"calcu",
+				"calculateVarience"
+			],
+			[
+				"adj_close",
+				"adj_closeVarience"
+			],
+			[
+				"vec",
+				"vectorVarience"
+			],
+			[
+				"o",
+				"openMean"
+			],
+			[
+				"cal",
+				"calculateRange"
+			],
+			[
+				"open",
+				"openRange"
+			],
+			[
+				"ope",
+				"openMean"
+			],
+			[
+				"coun",
+				"countHeaders"
+			],
+			[
+				"cou",
+				"countHeaders"
+			],
+			[
+				"file",
+				"_fileName"
+			],
+			[
+				"adj_",
+				"adj_closeMean"
+			],
+			[
+				"op",
+				"openMean"
+			],
+			[
+				"pi",
+				"printVectors"
+			],
+			[
+				"rea",
+				"read_csv"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"red",
+				"read_csv"
+			],
+			[
+				"strin",
+				"stringstream"
+			],
+			[
+				"ma",
+				"main"
+			],
+			[
+				"c",
+				"circle"
+			],
+			[
+				"m",
+				"magLine"
+			],
+			[
+				"ci",
+				"circleVector"
+			],
+			[
+				"sta",
+				"startY"
+			],
+			[
+				"end",
+				"endX"
+			],
+			[
+				"cir",
+				"circleVector"
+			],
+			[
+				"star",
+				"startY"
+			],
+			[
+				"start",
+				"startX"
+			],
+			[
+				"s",
+				"startY"
+			],
+			[
+				"send",
+				"sendDataUDP"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 286.0,
+		"history":
+		[
+			"print(a)",
+			"a = 1",
+			"quit",
+			"print('hello')",
+			"ls",
+			"terminous",
+			"1 + 1",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/khang/Coding/C++/CSV/csv.cpp",
+		"/home/khang/2022-3_Rover_Code_Base/base/ui/web-ui/src/Electricals.js",
+		"/home/khang/2022-3_Rover_Code_Base/base/ui/web-ui/src/components/Ipcam.js",
+		"/home/khang/catkin_ws/src/ip_camera/src/ip.py",
+		"/home/khang/2022-3_Rover_Code_Base/base/ui/web-ui/src/components/RosVisualization.js",
+		"/home/khang/2022-3_Rover_Code_Base/base/ui/web-ui/src/App.js",
+		"/home/khang/catkin_ws/src/gnss/src/reach.py",
+		"/home/khang/2022-3_Rover_Code_Base/base/ui/web-ui/src/components/MapTile.js",
+		"/home/khang/catkin_ws/src/ip_camera/CMakeLists.txt",
+		"/home/khang/Coding/Python/IP/ip.py",
+		"/home/khang/Documents/2022-3_Rover_Code_Base/base/ui/web-ui/package.json",
+		"/home/khang/oldbase/base/ui/web-ui/src/components/RosVisualization.js",
+		"/home/khang/catkin_ws/src/gnss/CMakeLists.txt",
+		"/home/khang/catkin_ws/src/test/CMakeLists.txt",
+		"/home/khang/catkin_ws/src/gnss/package.xml",
+		"/usr/lib/udev/rules.d/50-udev-default.rules",
+		"/etc/udev/rules.d/70-snap.snap-store.rules",
+		"/dev/ttyACM0",
+		"/dev/ttyUSB0",
+		"/home/khang/catkin_ws/src/CMakeLists.txt",
+		"/home/khang/Coding/Python/Socket/workingServerAndClient/sender.py",
+		"/home/khang/2022-3_Rover_Code_Base/base/ui/web-ui/Express_Server/express.js",
+		"/home/khang/Coding/Web/Pong/CLIENT/app/js/circle.js",
+		"/home/khang/Coding/Web/Tracker/index.js",
+		"/home/khang/Coding/Web/Tracker/index.html",
+		"/home/khang/Coding/C++/CSV/r.sh",
+		"/home/khang/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/khang/.config/sublime-text/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/home/khang/Coding/Web/Pong/CLIENT/app/js/vector.js",
+		"/home/khang/Coding/Python/Socket/sender.py",
+		"/home/khang/Coding/Python/Socket/workingServerAndClient/server.py",
+		"/home/khang/Coding/Python/Socket/socketClient.py",
+		"/home/khang/Coding/Python/Socket/socket_test.py",
+		"/home/khang/Coding/Python/Socket/socket_client.py",
+		"/home/khang/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/khang/Coding/Operating_Systems/HW4/file_system.c",
+		"/home/khang/Coding/Operating_Systems/HW4/disk.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "circle.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
