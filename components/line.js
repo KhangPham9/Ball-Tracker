@@ -12,15 +12,19 @@ class Line {
     ctx.moveTo(this.start.x, this.start.y);
 
     if (circle.pos.y < 400)
-      ctx.lineTo(this.start.x + this.length * Math.cos(this.angle),
-             this.start.y - this.length * Math.sin(this.angle));
+      ctx.lineTo(this.start.x - this.length * Math.cos(this.angle),
+             this.start.y + this.length * Math.sin(this.angle));
     else {
-      ctx.lineTo(this.start.x + this.length * Math.cos(this.angle), 
-            this.start.y + this.length * Math.sin(this.angle));
+      ctx.lineTo(this.start.x - this.length * Math.cos(this.angle), 
+            this.start.y - this.length * Math.sin(this.angle));
 
     }
 
     ctx.stroke();
+  }
+
+  update(c) {
+    this.start = new Vector(c.pos.x, c.pos.y);
   }
 }
 

@@ -10,7 +10,7 @@ let ctx = canvas.getContext('2d');
 
 let c1 = new Circle(50,50,16,'red', 10);
 
-let line = new Line(400, 400, 50, 0);
+let line = new Line(c1.pos.x, c1.pos.y, 200, 0);
 
 let t = new Tracker(c1, 400, 400, 50);
 
@@ -26,6 +26,7 @@ function start(startTime) {
   line.angle = t.getAngle();
   c1.update();
   c1.draw(ctx);
+  line.update(c1);
   line.draw(ctx, c1);
   window.requestAnimationFrame(start);
 }
