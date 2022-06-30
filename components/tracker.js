@@ -10,8 +10,6 @@ class Tracker {
     this.lineVector = new Vector(this.origin.x - this.end.x, 
                                  this.origin.y - this.end.y);
 
-    this.circleVector = new Vector(this.origin.x - this.circle.pos.x,
-                                  this.origin.y - this.circle.pos.y);
   }
 
   getAngle() {
